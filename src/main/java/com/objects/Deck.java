@@ -5,8 +5,8 @@ import java.util.HashMap;
 import org.testng.Assert;
 
 public class Deck {
-	static final ArrayList<String> Suits = new ArrayList<>(Arrays.asList("SPADES", "DIAMONDS", "CLUBS", "HEARTS"));
-	static final ArrayList<String> Values = new ArrayList<>(Arrays.asList("ACE", "2", "3", "4", "5", "6", "7", "8", "9", "10", "JACK", "QUEEN", "KING"));
+	static final ArrayList<String> Suits = new ArrayList<String>(Arrays.asList("SPADES", "DIAMONDS", "CLUBS", "HEARTS"));
+	static final ArrayList<String> Values = new ArrayList<String>(Arrays.asList("ACE", "2", "3", "4", "5", "6", "7", "8", "9", "10", "JACK", "QUEEN", "KING"));
 
 		public boolean success;
 		public String deck_id;
