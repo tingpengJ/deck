@@ -1,6 +1,6 @@
 How to run it
 
-idea open as a meaven project, after dependency installed, 
+idea open as a meaven project, after dependency installed, click run test
 ![image](https://github.com/tingpengJ/real-time-data-pipeline2/blob/master/run.PNG)
 
 test case explaination
